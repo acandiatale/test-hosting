@@ -12,7 +12,7 @@ export default class Home {
                 
                 <section class="second-section">
                     <div class="pillow-container">
-                        <img src="/assets/pillow.png" alt="Voxelvital Pillow" class="pillow-image">
+                        <img src="https://github.com/acandiatale/test-hosting/blob/main/assets/pillow.png" alt="Voxelvital Pillow" class="pillow-image">
                         <div class="pillow-text">당신의 경추1번에서 7번까지 자유를 주세요</div>
                     </div>
                 </section>
